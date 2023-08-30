@@ -1,0 +1,2 @@
+E:\LuuDuLieuSinhVien\2033216377_NguyenNhatDuy\buoi3\bai3\bin\Debug\bai3.exe.config
+E:\LuuDuLieuSinhVien\2033216377_NguyenNhatDuy\buoi3\bai3\obj\Debug\bai3.csprojResolveAssemblyReference.cache
